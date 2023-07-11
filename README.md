@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Full Stack Developer<br>⚡ Python (Django) + JS (React)
+🔭 Full Stack Developer<br>⚡ Python (Django) + TS (React)
 
 
 # 💻 Tech Stack:
